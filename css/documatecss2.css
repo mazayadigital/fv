@@ -10314,7 +10314,7 @@ fieldset.da-button-set.d-none {
   padding-top: 15px;
 }
 
-#dadownloadform button {
+form#dadownloadform button.btn {
   font-size: 1rem;
   display: inline-block;
   margin: 0 0 5px;
@@ -10325,7 +10325,7 @@ fieldset.da-button-set.d-none {
   color: #007bff;
 }
 
-#dadownloadform button:hover {
+form#dadownloadform button.btn:hover {
   background: #007bff;
   color: #fff;
   text-decoration: none;
