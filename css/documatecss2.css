@@ -10315,6 +10315,7 @@ fieldset.da-button-set.d-none {
 }
 
 form#dadownloadform button.btn {
+  margin-top: 0.5rem;
   font-size: 1rem;
   display: inline-block;
   margin: 0 0 5px;
