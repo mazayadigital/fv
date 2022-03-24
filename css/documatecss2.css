@@ -10313,3 +10313,20 @@ fieldset.da-button-set.d-none {
   border-top: #ddd 1px solid;
   padding-top: 15px;
 }
+
+#dadownloadform button {
+  font-size: 1rem;
+  display: inline-block;
+  margin: 0 0 5px;
+  padding: 5px 20px;
+  border-radius: 50px;
+  background: rgba(0, 123, 255, 0.15);
+  transition: all ease 0.4s;
+  color: #007bff;
+}
+
+#dadownloadform button:hover {
+  background: #007bff;
+  color: #fff;
+  text-decoration: none;
+}
