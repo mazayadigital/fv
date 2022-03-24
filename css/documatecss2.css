@@ -10304,3 +10304,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 fieldset.da-button-set.d-none {
   display: block !important;
 }
+
+.card [aria-labelledby="daheadingTwo"] .da-form-group-row {
+  display: none;
+}
